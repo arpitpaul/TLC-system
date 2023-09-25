@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2014.2 (64-bit)
+# SW Build 932637 on Wed Jun 11 13:33:10 MDT 2014
+# IP Build 924643 on Fri May 30 09:20:16 MDT 2014
+# Start of session at: Mon Sep 25 19:46:33 2023
+# Process ID: 26480
+# Log file: C:/Users/HP/TLC_5_lane/TLC_5_lane.runs/synth_1/TLC_design.vds
+# Journal file: C:/Users/HP/TLC_5_lane/TLC_5_lane.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source TLC_design.tcl

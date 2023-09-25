@@ -1,0 +1,20 @@
+Vivado Simulator 2014.2
+Copyright 1986-1999, 2001-2014 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2014.2/bin/unwrapped/win64.o/xelab.exe --debug typical --relax -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_behav --prj C:/Users/HP/TLC_5_lane/TLC_5_lane.sim/sim_1/behav/tb.prj xil_defaultlib.tb xil_defaultlib.glbl 
+Multi-threading is on. Using 14 slave threads.
+Determining compilation order of HDL files.
+INFO: [VRFC 10-165] Analyzing Verilog file "C:/Users/HP/TLC_5_lane/TLC_5_lane.srcs/sources_1/new/TLC_design.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TLC_design
+INFO: [VRFC 10-165] Analyzing Verilog file "C:/Users/HP/TLC_5_lane/TLC_5_lane.srcs/sim_1/new/tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb
+INFO: [VRFC 10-165] Analyzing Verilog file "C:/Xilinx/Vivado/2014.2/data/verilog/src/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.TLC_design
+Compiling module xil_defaultlib.tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_behav
